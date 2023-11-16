@@ -1,6 +1,6 @@
 //接口更新于2023年11月15日
-   { "sites": [
-         ["关键":"可过滤":"名称":"电感机----全新的分类点----全新的功能":3,"API":"http://8.210.232.168/YS/DR-PY/libs/drpy2.ni.JS","可搜索":2,"快速搜索":0,"可过滤":0,"可过滤":0,"扩展":http://8.210.10232.168/电视/盒子/联署材料/杜班
+{ "sites":[
+         {"key": "dr_豆瓣","name":"公众号": 3,"api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://8.210.232.168/tv/box/js/douban.js"}
 
 ],
 
