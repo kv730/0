@@ -1,27 +1,27 @@
 //接口更新于2023年11月15日
 {"sites":[
         {   
-		    "key":"wogg_T4",
-		    "name":"💂‍┃玩偶┃T4",
-			"type":4,
-			"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1
-		},			
-		{
-			"key": "csp_WoGG",
-			"name": "💂‍┃阿里┃玩偶",
-			"type": 3,
-			"api": "csp_Wogg",
+           "key":"wogg_T4",
+           "name":"💂‍┃玩偶┃T4",
+           "type":4,
+           "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba",
+           "searchable":1,
+           "quickSearch":1,
+           "filterable":1
+        },			
+        {
+            "key": "csp_WoGG",
+            "name": "💂‍┃阿里┃玩偶",
+            "type": 3,
+            "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 0,
 			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
             "ext":{
 			"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto",
             "filter": "https://jihulab.com/duomv/xduo/-/raw/main/wogg.json"
-		 }
-		},
+        }
+        },
         {
             "key": "js_4KHDR",
             "name": "👩‍⚕️┃玩偶┃姐姐",
@@ -53,82 +53,69 @@
             "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/xiaopin.py"
         },
         {
-            "key": "csp_七夜",
-            "name": "🔎┃阿里┃七夜",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-        },			
-        {
-            "key": "PanSearch",
-            "name": "🏵️‍┃阿里┃PanS",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",			
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "Upyunso",
-            "name": "🌤️┃阿里┃云搜",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",			
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-        },
-        {
-           "key": "XiaoZhiTiao",
-           "name": "🏷️┃阿里┃纸条",
-           "type": 3,
-           "api": "csp_XiaoZhiTiao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",			
-			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-        },		
-        {
-            "key": "Alips",
-            "name": "📀┃阿里┃盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",			
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "Yisou",
-            "name": "🎯┃阿里┃易搜",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,	
-			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",			
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-        },		
-        {
-            "key": "Zhaozy",
-            "name": "🔍┃阿里┃找片",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",			
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
-        }
+         "key": "csp_search_七夜",
+         "name": "👴┃七夜┃搜索",
+         "type": 3,
+         "api": "csp_Dovx",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 0,
+         "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      },
+      {
+         "key": "csp_search_PanSearch",
+         "name": "🗂️┃盘搜┃搜索",
+         "type": 3,
+         "api": "csp_PanSearch",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 0,
+         "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      },
+      {
+         "key": "csp_search_Yisou",
+         "name": "🐏┃易搜┃搜索",
+         "type": 3,
+         "api": "csp_YiSo",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 0,
+         "playerType": 1,
+         "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      },
+      {
+         "key": "csp_search_Zhaozy",
+         "name": "🐑┃资源┃搜索",
+         "type": 3,
+         "api": "csp_Zhaozy",
+         "searchable": 1,
+         "quickSearch": 0,
+         "filterable": 0,
+         "playerType": 1,
+         "ext": "http://127.0.0.1:9978/file/fatcat/token.txt$$$feimao$$$123456"
+      },
+      {
+         "key": "csp_search_Upyunso",
+         "name": "🐐┃云搜┃搜索",
+         "type": 3,
+         "api": "csp_UpYun",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 0,
+         "playerType": 1,
+         "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      },
+      {
+         "key": "csp_search_Alips",
+         "name": "🦌┃盘搜┃搜索",
+         "type": 3,
+         "api": "csp_PanSou",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 0,
+         "playerType": 1,
+         "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
+      }
 
 ],
 
