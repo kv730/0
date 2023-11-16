@@ -52,27 +52,83 @@
             "filterable": 1,
             "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/xiaopin.py"
         },
-       {
-         "key": "橘子",
-         "name": "🍊｜橘子┃影视",
-         "type": 3,
-         "api": "csp_AppMao",
-         "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
-      },
-        //网盘资源区
-        {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
-        {"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"yingshi$$$abcd1234"},
-        {"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
-        {"key":"csp_Yisou","name":"📀易搜(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
-        {"key":"csp_Upyunso","name":"📀UP云搜(搜索)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
-        {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(优)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩偶哥哥.json"},
-        {"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/云盘资源.json"},
-        {"key": "csp_XYQHikerAL_云盘资源分享","name":"📀云盘资源分享(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/云盘资源分享.json"},
-        {"key": "csp_XYQHikerAL_我的小站","name":"📀我的小站(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/我的小站.json"},
-        {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/阿里云盘网.json"},
-        {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/DOVX搜索.json"},
-        {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/盘搜索.json"},
-        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"}
+        {
+            "key": "csp_七夜",
+            "name": "🔎┃阿里┃七夜",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+        },			
+        {
+            "key": "PanSearch",
+            "name": "🏵️‍┃阿里┃PanS",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",			
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+        },
+        {
+            "key": "Upyunso",
+            "name": "🌤️┃阿里┃云搜",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",			
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+        },
+        {
+           "key": "XiaoZhiTiao",
+           "name": "🏷️┃阿里┃纸条",
+           "type": 3,
+           "api": "csp_XiaoZhiTiao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",			
+			"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+        },		
+        {
+            "key": "Alips",
+            "name": "📀┃阿里┃盘搜",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",			
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+        },
+        {
+            "key": "Yisou",
+            "name": "🎯┃阿里┃易搜",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,	
+			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",			
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
+        },		
+        {
+            "key": "Zhaozy",
+            "name": "🔍┃阿里┃找片",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;12448C1378668FEEA8ADDAB73E53CEA9",			
+            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"
+        }
 
 ],
 
