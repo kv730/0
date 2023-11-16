@@ -1,6 +1,16 @@
 //接口更新于2023年11月15日
 {"sites":[
         {
+            "key": "py_xuqu1",
+            "name": "🅱️┃戏曲┃合集",
+            "type": 3,
+            "api": "py_xuqu1",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/xiqu.py"
+        },
+        {
             "key": "py_xiangsh",
             "name": "🅱️┃相声┃小品",
             "type": 3,
